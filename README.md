@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=ZTz1qKoFsHo
  in this PHP tutorial I learn all the basics to write my own programs with PHP.
  
  
- This code was written from a YouTube tutorial video for pratice in PHP
+ This code was written from a YouTube tutorial video for practice in PHP
 
 All rights go to: Programmieren lernen on youtube
 
